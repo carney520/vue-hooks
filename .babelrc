@@ -2,5 +2,8 @@
   "presets": [
     "es2015-rollup",
     "stage-2"
-  ]
+  ],
+  "plugins": [
+    "external-helpers"
+  ],
 }

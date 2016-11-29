@@ -1,4 +1,4 @@
-import babel from 'rollup-plugin-babel'
+import buble from 'rollup-plugin-buble'
 
 export default {
   entry: 'src/index.js',
@@ -6,12 +6,12 @@ export default {
   format: 'umd',
   moduleName: 'VueHooks',
   plugins: [
-    babel(),
+    buble({objectAssign: 'Object.assign'})
   ],
-  banner: 
+  banner:
 `
 /**
  * vue-hook
  */
-`,
+`
 }

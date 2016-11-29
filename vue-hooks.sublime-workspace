@@ -1,0 +1,1614 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"next",
+				"nextHook"
+			],
+			[
+				"per",
+				"persistMethodWrapper"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"intsl",
+				"install"
+			],
+			[
+				"afT",
+				"afterHook"
+			],
+			[
+				"E",
+				"Error\t(action.js)"
+			],
+			[
+				"instance",
+				"instanceof"
+			],
+			[
+				"nex",
+				"nextHook"
+			],
+			[
+				"init",
+				"initPayload"
+			],
+			[
+				"sat",
+				"stack"
+			],
+			[
+				"beof",
+				"beforeHook"
+			],
+			[
+				"reso",
+				"resolve\t(actions.js)"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"form",
+				"fromVal"
+			],
+			[
+				"act",
+				"actions"
+			],
+			[
+				"acti",
+				"actionPrefix"
+			],
+			[
+				"a",
+				"action.js"
+			],
+			[
+				"upp",
+				"upperCased\t(actions.js)"
+			],
+			[
+				"proc",
+				"proc"
+			],
+			[
+				"set",
+				"setState"
+			],
+			[
+				"dest",
+				"destroy\t(procedure.js)"
+			],
+			[
+				"even",
+				"eventName"
+			],
+			[
+				"evn",
+				"eventName"
+			],
+			[
+				"call",
+				"callback\t(actions.js)"
+			],
+			[
+				"get",
+				"getState\t(procedure.js)"
+			],
+			[
+				"sta",
+				"state"
+			],
+			[
+				"st",
+				"state"
+			],
+			[
+				"lo",
+				"locals"
+			],
+			[
+				"const",
+				"constructor\t(action.js)"
+			],
+			[
+				"pro",
+				"proc"
+			],
+			[
+				"Vue",
+				"VueHook"
+			],
+			[
+				"ini",
+				"initPayload"
+			],
+			[
+				"process",
+				"processInstance"
+			],
+			[
+				"run",
+				"runQueue"
+			],
+			[
+				"ac",
+				"actions.js"
+			],
+			[
+				"af",
+				"afterFn"
+			],
+			[
+				"b",
+				"beforeFn"
+			],
+			[
+				"aft",
+				"afterHook"
+			],
+			[
+				"bef",
+				"beforeFn"
+			],
+			[
+				"STE",
+				"STATE"
+			],
+			[
+				"pre",
+				"processInstance"
+			],
+			[
+				"metho",
+				"method\t(util.js)"
+			],
+			[
+				"after",
+				"afterHook"
+			],
+			[
+				"be",
+				"beforeHook"
+			],
+			[
+				"tyep",
+				"typeof"
+			],
+			[
+				"res",
+				"resolveHook"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"before",
+				"beforeHook"
+			],
+			[
+				"resolve",
+				"resolveHook"
+			],
+			[
+				"conts",
+				"constructor\t(actions.js)"
+			],
+			[
+				"chec",
+				"checked"
+			],
+			[
+				"check",
+				"checked"
+			],
+			[
+				"checek",
+				"checkedValue"
+			],
+			[
+				"un",
+				"uncheckedValue\t(checkable.js)"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"checked",
+				"checkedValue\t(checkable.js)"
+			],
+			[
+				"chek",
+				"checkbox3"
+			],
+			[
+				"checkbo",
+				"checkbox"
+			],
+			[
+				"checkbox",
+				"checkbox0"
+			],
+			[
+				"hor",
+				"horizontal"
+			],
+			[
+				"chc",
+				"checked"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"com",
+				"components\t(rangepicker-pane.vue)"
+			],
+			[
+				"pri",
+				"primary\t(button.vue)"
+			],
+			[
+				"thme",
+				"theme\t(button.vue)"
+			],
+			[
+				"form-group",
+				"form-group-wrapper-inline"
+			],
+			[
+				"wid",
+				"width\t(_button.scss)"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"from",
+				"fromValue"
+			],
+			[
+				"me",
+				"methods\t(rangepicker-pane.vue)"
+			],
+			[
+				"_par",
+				"_parse"
+			],
+			[
+				"fr",
+				"fromDate"
+			],
+			[
+				"toDate",
+				"toDate"
+			],
+			[
+				"string",
+				"stringify"
+			],
+			[
+				"strin",
+				"stringify\t(pane.vue)"
+			],
+			[
+				"toDa",
+				"toDate"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"tem",
+				"tempToDate"
+			],
+			[
+				"_onHo",
+				"_onHover\t(pane.vue)"
+			],
+			[
+				"show",
+				"showShortcut\t(pane.vue)"
+			],
+			[
+				"_unif",
+				"_unifyMonth"
+			],
+			[
+				"_canCha",
+				"_canChangeNextMonth"
+			],
+			[
+				"_can",
+				"_canChangeLastMonth"
+			],
+			[
+				"mon",
+				"month"
+			],
+			[
+				"mont",
+				"month"
+			],
+			[
+				"_canChan",
+				"_canChangeLastMonth"
+			],
+			[
+				"_canCah",
+				"_canChangeNextMonth"
+			],
+			[
+				"_canCHang",
+				"_canChangeLastMonth"
+			],
+			[
+				"datep",
+				"datepickerClasses"
+			],
+			[
+				"showA",
+				"showAdjacentMonth"
+			],
+			[
+				"off",
+				"offset"
+			],
+			[
+				"_in",
+				"_isInRange"
+			],
+			[
+				"_is",
+				"_isToday"
+			],
+			[
+				"day",
+				"dayClasses"
+			],
+			[
+				"date",
+				"dateFilter"
+			],
+			[
+				"month",
+				"monthCache"
+			],
+			[
+				"alo",
+				"allowTimepicker"
+			],
+			[
+				"toD",
+				"toDate"
+			],
+			[
+				"fromDate",
+				"fromDateFormatted"
+			],
+			[
+				"TST",
+				"TEST_FORMAT"
+			],
+			[
+				"_hand",
+				"_handleChange"
+			],
+			[
+				"curr",
+				"currentHandle"
+			],
+			[
+				"vet",
+				"vertical-align"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"range",
+				"rangepicker\t(rangepicker-pane.vue)"
+			],
+			[
+				"cm",
+				"computed\t(rangepicker-pane.vue)"
+			],
+			[
+				"Rang",
+				"RangepickerPane"
+			],
+			[
+				"ran",
+				"rangepicker-pane.vue"
+			],
+			[
+				"_to",
+				"_toDateFilter"
+			],
+			[
+				"comp",
+				"computed\t(pane.vue)"
+			],
+			[
+				"_han",
+				"_handleFromChange"
+			],
+			[
+				"tod",
+				"todayText"
+			],
+			[
+				"fo",
+				"format"
+			],
+			[
+				"Date",
+				"DatePickerPane"
+			],
+			[
+				"tr",
+				"trf\ttransform"
+			],
+			[
+				"tran",
+				"text-transform"
+			],
+			[
+				"trans",
+				"transition\tCSS - transition: ;"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/action.js",
+			"settings":
+			{
+				"buffer_size": 4518,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/index.js",
+			"settings":
+			{
+				"buffer_size": 926,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "build/rollup.config.js",
+			"settings":
+			{
+				"buffer_size": 251,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "procedure.js",
+			"settings":
+			{
+				"buffer_size": 1272,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/actions.js",
+			"settings":
+			{
+				"buffer_size": 8060,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1302,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/plugin.js",
+			"settings":
+			{
+				"buffer_size": 1362,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "examples/test.js",
+			"settings":
+			{
+				"buffer_size": 1119,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".babelrc",
+			"settings":
+			{
+				"buffer_size": 101,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					""
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					"Vintageous - Test (All)"
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					"Vintageous - Test (This File Only)"
+				]
+			],
+			[
+				"Packages/Vintageous/Vintageous.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"wak",
+				"WakaTime: Open Dashboard"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"waka",
+				"WakaTime: Open Dashboard"
+			],
+			[
+				"wa",
+				"WakaTime: Open Dashboard"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Discover Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"alignmen",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"user",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"pack",
+				"Package Control: Discover Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"remve",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"toggle",
+				"View: Toggle Side Bar"
+			],
+			[
+				"vin",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa ge",
+				"Package Control: Add Channel"
+			],
+			[
+				"",
+				"Install Package Control"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/apple/workspace/vue/vue-hooks",
+		"/Users/apple/workspace/vue/vue-hooks/build",
+		"/Users/apple/workspace/vue/vue-hooks/dist",
+		"/Users/apple/workspace/vue/vue-hooks/examples",
+		"/Users/apple/workspace/vue/vue-hooks/src"
+	],
+	"file_history":
+	[
+		"/Users/apple/workspace/vue/vue-hooks/build/rollup.config.js",
+		"/Users/apple/workspace/vue/vue-hooks/.babelrc",
+		"/Users/apple/workspace/vue/vue-hooks/package.json",
+		"/Users/apple/workspace/vue/vue-hooks/.eslintrc.js",
+		"/Users/apple/workspace/vue/vue-hooks/src/states.js",
+		"/Users/apple/workspace/vue/vue-hooks/vue-hooks.sublime-project",
+		"/Users/apple/workspace/vue/guangying/package.json",
+		"/Users/apple/workspace/vue/guangying/src/views/home.vue",
+		"/Users/apple/workspace/vue/guangying/src/assets/sass/base/_reset.scss",
+		"/Users/apple/workspace/vue/guangying/src/assets/sass/settings/_global.scss",
+		"/Users/apple/workspace/vue/guangying/src/assets/icon-set.js",
+		"/Users/apple/workspace/vue/guangying/src/app.vue",
+		"/Users/apple/workspace/vue/guangying/src/assets/sass/main.scss",
+		"/Users/apple/workspace/vue/guangying/src/assets/index.jade",
+		"/Users/apple/workspace/vue/guangying/src/helpers/util.js",
+		"/Users/apple/workspace/vue/guangying/src/routes/hooks.js",
+		"/Users/apple/workspace/vue/guangying/src/routes/index.js",
+		"/Users/apple/workspace/vue/guangying/src/routes/routes.js",
+		"/Users/apple/workspace/vue/guangying/src/vuex/mutation-types.js",
+		"/Users/apple/workspace/vue/guangying/src/vuex/actions/ui.js",
+		"/Users/apple/workspace/vue/guangying/src/vuex/actions/helpers.js",
+		"/Users/apple/workspace/vue/guangying/src/vuex/store.js",
+		"/Users/apple/workspace/vue/guangying/src/vuex/modules/ui.js",
+		"/Users/apple/workspace/vue/guangying/src/main.js",
+		"/Users/apple/workspace/vue/guangying/src/assets/sass/components/forms/_text-field.scss",
+		"/Users/apple/workspace/vue/guangying/src/assets/sass/components/forms/_feedback.scss",
+		"/Users/apple/workspace/vue/guangying/src/assets/sass/components/forms/_slider.scss",
+		"/Users/apple/workspace/vue/guangying/src/components/form/radio/radio.vue",
+		"/Users/apple/workspace/vue/guangying/src/assets/sass/components/forms/_checkbox.scss",
+		"/Users/apple/workspace/vue/guangying/src/components/form/checkbox/checkbox.vue",
+		"/Users/apple/workspace/vue/guangying/src/components/form/checkable.js",
+		"/Users/apple/workspace/vue/guangying/src/components/form/switch/switch.vue",
+		"/Users/apple/workspace/vue/guangying/src/views/docs/form.vue",
+		"/Users/apple/workspace/vue/guangying/src/components/upload.vue",
+		"/Users/apple/workspace/vue/guangying/src/components/form/datepicker/rangepicker-pane.vue",
+		"/Users/apple/workspace/vue/guangying/src/components/form/datepicker/rangepicker.vue",
+		"/Users/apple/workspace/vue/guangying/src/components/form/select/select.vue",
+		"/Users/apple/workspace/vue/guangying/src/components/form/input/input.vue",
+		"/Users/apple/workspace/vue/guangying/src/components/form/feedback-icons.vue",
+		"/Users/apple/workspace/vue/guangying/src/components/form/datepicker/pane.vue",
+		"/Users/apple/workspace/vue/guangying/src/components/form/upload/upload.vue",
+		"/Users/apple/workspace/vue/guangying/src/components/form/checkbox/checkbox-group.vue",
+		"/Users/apple/Desktop/effects.js",
+		"/Users/apple/workspace/vue/guangying/src/components/form/validatable.js",
+		"/Users/apple/workspace/vue/guangying/src/components/index.js",
+		"/Users/apple/workspace/vue/guangying/src/components/form/datepicker/datepicker.vue",
+		"/Users/apple/workspace/vue/guangying/src/assets/sass/components/forms/_datepicker.scss",
+		"/Users/apple/workspace/vue/guangying/src/assets/sass/components/forms/_rangepicker.scss",
+		"/Users/apple/workspace/vue/guangying/src/components/button/button.vue",
+		"/Users/apple/workspace/vue/guangying/src/assets/sass/components/forms/_base.scss",
+		"/Users/apple/workspace/vue/guangying/src/assets/sass/components/_button.scss",
+		"/Users/apple/workspace/vue/guangying/src/components/form/help-text.vue",
+		"/Users/apple/workspace/vue/guangying/src/components/form/label.vue",
+		"/Users/apple/workspace/vue/guangying/src/components/form/select.js",
+		"/Users/apple/workspace/vue/guangying/src/components/form/tree-select/tree-select.vue",
+		"/Users/apple/workspace/vue/guangying/src/components/_mixins/view.js",
+		"/Users/apple/Library/Application Support/Sublime Text 3/Installed Packages/Vintage-Origami.sublime-package",
+		"/Users/apple/Library/Application Support/Sublime Text 3/Packages/Origami/Default (OSX).sublime-keymap",
+		"/Users/apple/Library/Application Support/Sublime Text 3/Packages/WakaTime/WakaTime.sublime-settings",
+		"/Users/apple/Library/Application Support/Sublime Text 3/Packages/User/WakaTime.sublime-settings",
+		"/Users/apple/Library/Application Support/Sublime Text 3/Packages/CSScomb/CSScomb.sublime-settings",
+		"/Users/apple/workspace/vue/guangying/src/components/form/timepicker/timepicker.vue",
+		"/Users/apple/workspace/vue/guangying/src/helpers/validators.js",
+		"/Users/apple/workspace/vue/guangying/doc/vue-guideline.md",
+		"/Users/apple/workspace/vue/guangying/src/helpers/dom.js",
+		"/Users/apple/workspace/vue/guangying/src/assets/sass/components/forms/_forms.scss",
+		"/Users/apple/Library/Application Support/Sublime Text 3/Packages/User/vue",
+		"/Users/apple/Library/Application Support/Sublime Text 3/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/apple/Library/Application Support/Sublime Text 3/Packages/Terminal/Base File.sublime-settings",
+		"/Users/apple/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/apple/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/Users/apple/workspace/vue/guangying/.babelrc",
+		"/Users/apple/workspace/vue/guangying/doc/javascript-guideline.md",
+		"/Users/apple/workspace/vue/guangying/src/assets/sass/components/forms/_timepicker.scss",
+		"/Users/apple/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/apple/workspace/vue/guangying/.sublime-project",
+		"/Users/apple/workspace/vue/guangying/src/assets/sass/utils/_mixins.scss",
+		"/Users/apple/workspace/vue/guangying/src/assets/sass/utils/_utils.scss",
+		"/Users/apple/workspace/vue/guangying/src/components/alert.vue",
+		"/Users/apple/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"family",
+			"datepicker",
+			"hello",
+			"hssso",
+			"hello",
+			"dadff0",
+			"d",
+			"dadff0",
+			"dadff0() d",
+			"dadff0",
+			"dad",
+			"dadffo",
+			"d",
+			"dfell0",
+			"dfello",
+			"h",
+			"hello"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/action.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4518,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1316,
+								1316
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 2
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 466.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 926,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								925,
+								925
+							]
+						],
+						"settings":
+						{
+							"highlight_line": true,
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "build/rollup.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 251,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								170,
+								170
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 2
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "procedure.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1272,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								57,
+								57
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 232.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/actions.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8060,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16,
+								16
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1302,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								983,
+								983
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JSON (JavaScriptNext).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 22
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/plugin.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								134,
+								134
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"highlight_line": true,
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 9
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "examples/test.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1119,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1119,
+								1119
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": ".babelrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 101,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28,
+								28
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 11
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.vi_out":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "vue-hooks.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"con",
+				"build/rollup.config.js"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				".",
+				".babelrc"
+			],
+			[
+				"roll",
+				"build/rollup.config.js"
+			],
+			[
+				".bab",
+				".babelrc"
+			],
+			[
+				"act",
+				"src/actions.js"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"build",
+				"build/rollup.config.js"
+			],
+			[
+				"rest",
+				"src/assets/sass/base/_reset.scss"
+			],
+			[
+				"icon",
+				"src/assets/icon-set.js"
+			],
+			[
+				"ut",
+				"src/helpers/util.js"
+			],
+			[
+				"mian.scs",
+				"src/assets/sass/main.scss"
+			],
+			[
+				"uti",
+				"src/helpers/util.js"
+			],
+			[
+				"index.ja",
+				"src/assets/index.jade"
+			],
+			[
+				"main",
+				"src/assets/sass/main.scss"
+			],
+			[
+				"hom",
+				"src/views/home.vue"
+			],
+			[
+				"hoo",
+				"src/routes/hooks.js"
+			],
+			[
+				"rou",
+				"src/routes/routes.js"
+			],
+			[
+				"help",
+				"src/vuex/actions/helpers.js"
+			],
+			[
+				"ui",
+				"src/vuex/actions/ui.js"
+			],
+			[
+				"mu",
+				"src/vuex/mutation-types.js"
+			],
+			[
+				"store",
+				"src/vuex/store.js"
+			],
+			[
+				"app",
+				"src/app.vue"
+			],
+			[
+				"upl",
+				"src/components/upload.vue"
+			],
+			[
+				"che",
+				"src/assets/sass/components/forms/_checkbox.scss"
+			],
+			[
+				"chec",
+				"src/components/form/checkable.js"
+			],
+			[
+				"check",
+				"src/components/form/checkbox/checkbox-group.vue"
+			],
+			[
+				"rad",
+				"src/components/form/radio/radio.vue"
+			],
+			[
+				"swit",
+				"src/components/form/switch/switch.vue"
+			],
+			[
+				"slide",
+				"src/assets/sass/components/forms/_slider.scss"
+			],
+			[
+				"sle",
+				"src/components/form/select/select.vue"
+			],
+			[
+				"text",
+				"src/assets/sass/components/forms/_text-field.scss"
+			],
+			[
+				"feedback",
+				"src/assets/sass/components/forms/_feedback.scss"
+			],
+			[
+				"valid",
+				"src/components/form/validatable.js"
+			],
+			[
+				"inpu",
+				"src/components/form/input/input.vue"
+			],
+			[
+				"checkbox",
+				"src/assets/sass/components/forms/_checkbox.scss"
+			],
+			[
+				"button",
+				"src/assets/sass/components/_button.scss"
+			],
+			[
+				"bas",
+				"src/assets/sass/components/forms/_base.scss"
+			],
+			[
+				"help-",
+				"src/components/form/help-text.vue"
+			],
+			[
+				"base",
+				"src/assets/sass/components/forms/_base.scss"
+			],
+			[
+				"form",
+				"src/views/docs/form.vue"
+			],
+			[
+				"lab",
+				"src/components/form/label.vue"
+			],
+			[
+				"butt",
+				"src/assets/sass/components/_button.scss"
+			],
+			[
+				"_butt",
+				"src/assets/sass/components/_button.scss"
+			],
+			[
+				"sel",
+				"src/components/form/select.js"
+			],
+			[
+				"tree-s",
+				"src/components/form/tree-select/tree-select.vue"
+			],
+			[
+				"vie",
+				"src/components/_mixins/view.js"
+			],
+			[
+				"valia",
+				"src/components/form/validatable.js"
+			],
+			[
+				"vali",
+				"src/helpers/validators.js"
+			],
+			[
+				"input",
+				"src/components/form/input/input.vue"
+			],
+			[
+				"view",
+				"src/components/_mixins/view.js"
+			],
+			[
+				"pane",
+				"src/components/form/datepicker/pane.vue"
+			],
+			[
+				"dom",
+				"src/helpers/dom.js"
+			],
+			[
+				"time",
+				"src/components/form/timepicker/timepicker.vue"
+			],
+			[
+				"date",
+				"src/assets/sass/components/forms/_datepicker.scss"
+			],
+			[
+				"_form",
+				"src/assets/sass/components/forms/_forms.scss"
+			],
+			[
+				"index",
+				"src/components/index.js"
+			],
+			[
+				"gui",
+				"doc/javascript-guideline.md"
+			],
+			[
+				"guil",
+				"doc/javascript-guideline.md"
+			],
+			[
+				".ba",
+				".babelrc"
+			],
+			[
+				"datepic",
+				"src/components/form/datepicker/datepicker.vue"
+			],
+			[
+				"timepick",
+				"src/components/form/timepicker/timepicker.vue"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_last_buffer_search": "ERROR",
+		"_vintageous_last_buffer_search_command": "vi_star",
+		"_vintageous_last_char_search_command": "vi_t",
+		"_vintageous_last_character_search": "u",
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+		}
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

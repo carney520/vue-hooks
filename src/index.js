@@ -1,56 +1,50 @@
 /**
 * 实现hooks机制
 */
-import methodsMixin from './methods'
-import actionsMixin from './actions'
-import Hook from './hook'
+import Action from './action.js'
+import Plugin from './plugin.js'
 
 let Vue
 
-export default function install(_Vue, options = {}) {
-  if(Vue) {
-    console.warn('vue-hooks already installed. Vue.use(VueHooks) should be called only once.')
+export default function install (_Vue, options = {}) {
+  if (Vue) {
+    console.warn('vue-hooks already installed.')
     return
   }
+  if (options.persistMethodWrapper) {
+    Action.persistMethodWrapper = options.persistMethodWrapper
+  }
+
+  Action.resolveHook = function (name, context) {
+    if (context == null) {
+      return
+    } else {
+      return (context.$options && context.$options.hooks && context.$options.hooks[name]) ||
+        context[name]
+    }
+  }
+
   Vue = _Vue
   override(Vue, options)
 }
 
-function override(Vue, options) {
+function override (Vue, options) {
   options = {
     ...{
       debug: Vue.config.debug,
-      actionPrefix: '$$',
+      actionPrefix: '$$'
     },
-    options,
+    options
   }
 
   /**
   * hooks 选项合并策略
   */
   Vue.config.optionMergeStrategies.hooks = Vue.config.optionMergeStrategies.methods
-  Vue.config.optionMergeStrategies.actions = (toVal = {}, fromVal = {}) => {
-    if (fromVal.buildin) {
-      if (toVal.buildin) {
-        fromVal.buildin.forEach(val => {
-          if (toVal.buildin.indexOf(val) !== -1) {
-            console.warn(`Actions Warning: buildin conflict(${val}), to: ${toVal.buildin}, from: ${fromVal.buildin}. `)
-          } else {
-            toVal.buildin.push(val)
-          }
-        })
-      } else {
-        toVal.buildin = fromVal.buildin
-      }
-    }
+  Vue.mixin(Plugin(options))
+  Vue.Action = Action
+}
 
-    if (fromVal.custom) {
-      toVal.custom = {...fromVal.custom, ...toVal.custom || {}}
-    }
-    return toVal
-  }
-
-  Vue.mixin(methodsMixin(options))
-  Vue.mixin(actionsMixin(options))
-  Vue.Hook = Hook
+export {
+  Action
 }
